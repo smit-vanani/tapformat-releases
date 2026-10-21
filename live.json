@@ -2,9 +2,9 @@
   "days": {
     "2026-10-21": {
       "downloads": 23,
-      "visits": 117,
+      "visits": 118,
       "note": "includes 3 real downloads from before the live counter started; 7 repeat clicks (same visitor within 60s) removed; 1 direct GitHub download added to match GitHub's count"
     }
   },
-  "updated": "2026-10-21T12:19:08.608Z"
+  "updated": "2026-10-21T12:21:12.296Z"
 }
