@@ -6,9 +6,9 @@
       "note": "includes 3 real downloads from before the live counter started; 7 repeat clicks (same visitor within 60s) removed; 1 direct GitHub download added to match GitHub's count"
     },
     "2026-10-22": {
-      "downloads": 1,
+      "downloads": 2,
       "visits": 25
     }
   },
-  "updated": "2026-10-22T07:54:28.771Z"
+  "updated": "2026-10-22T08:10:19.725Z"
 }
